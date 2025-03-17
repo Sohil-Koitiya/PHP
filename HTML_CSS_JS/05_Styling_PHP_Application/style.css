@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+form
+{
+    border: 5px solid black;
+    height: 50%;
+    width: 50%;
+    background-color: navajowhite;
+    color: blue;
+}
+label
+{
+    display: block;
+}
+input
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+button
+{
+    margin: 50px;
+    padding: 20px;
+}
